@@ -122,7 +122,7 @@ csr:
 #  attributes - List of name/value pairs of attribute for identity
 #############################################################################
 id:
-   name: Admin@org2.example.com
+   name: AdminTls@org2.example.com
    type: client
    affiliation: com.example.org2
    maxenrollments: 0

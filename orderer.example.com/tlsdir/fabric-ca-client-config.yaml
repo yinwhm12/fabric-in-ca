@@ -99,7 +99,7 @@ tls:
 #
 #############################################################################
 csr:
-  cn: Admin@example.com
+  cn: admin
   serialnumber:
   names:
     - C: US

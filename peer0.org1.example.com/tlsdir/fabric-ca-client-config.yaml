@@ -108,7 +108,7 @@ csr:
       O: Hyperledger
       OU: Fabric
   hosts:
-    - orderer.example.com
+    - peer0.org1.example.com
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

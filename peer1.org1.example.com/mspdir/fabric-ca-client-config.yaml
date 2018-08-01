@@ -105,10 +105,10 @@ csr:
     - C: US
       ST: North Carolina
       L:
-      O: Hyperledger
-      OU: Fabric
+      O: Test
+      OU: peer1
   hosts:
-    - orderer.example.com
+    - peer1.org1.example.com
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

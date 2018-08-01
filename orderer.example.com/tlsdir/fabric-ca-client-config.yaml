@@ -105,8 +105,8 @@ csr:
     - C: US
       ST: North Carolina
       L:
-      O: Hyperledger
-      OU: Fabric
+      O: Test
+      OU: orderer
   hosts:
     - orderer.example.com
 

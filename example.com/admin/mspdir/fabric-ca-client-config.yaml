@@ -105,10 +105,10 @@ csr:
     - C: US
       ST: North Carolina
       L:
-      O: Hyperledger
-      OU: Fabric
+      O: Test
+      OU: example
   hosts:
-    - orderer.example.com
+    - 14.116.179.191:7053
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

@@ -105,10 +105,10 @@ csr:
     - C: US
       ST: North Carolina
       L:
-      O: Hyperledger
-      OU: Fabric
+      O: Test
+      OU: org2
   hosts:
-    - orderer.example.com
+    - org2.example.com
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

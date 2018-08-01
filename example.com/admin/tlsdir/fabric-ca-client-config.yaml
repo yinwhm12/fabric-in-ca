@@ -40,7 +40,7 @@
 #############################################################################
 
 # URL of the Fabric-ca-server (default: http://localhost:7054)
-url: http://localhost:7052
+url: http://14.116.179.195:7052
 
 # Membership Service Provider (MSP) directory
 # This is useful when the client is used to enroll a peer or orderer, so
@@ -108,7 +108,7 @@ csr:
       O: Test
       OU: example
   hosts:
-    - 14.116.179.191:7053
+    - 14.116.179.195:7050
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

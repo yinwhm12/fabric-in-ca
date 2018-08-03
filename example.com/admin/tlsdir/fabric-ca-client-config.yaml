@@ -108,7 +108,7 @@ csr:
       O: Test
       OU: example
   hosts:
-    - 14.116.179.195:7050
+    - orderer.example.com
 
 #############################################################################
 #  Registration section used to register a new identity with fabric-ca server

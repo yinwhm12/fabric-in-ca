@@ -106,7 +106,7 @@ csr:
       ST: North Carolina
       L:
       O: Test
-      OU: example
+      OU: orderer
   hosts:
     - orderer.example.com
 

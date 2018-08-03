@@ -106,7 +106,7 @@ csr:
       ST: North Carolina
       L:
       O: Test
-      OU: example
+      OU: org1
   hosts:
     - org1.example.com
 

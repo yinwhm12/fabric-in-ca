@@ -106,7 +106,7 @@ csr:
       ST: North Carolina
       L:
       O: Test
-      OU: peer1
+      OU: example
   hosts:
     - peer1.org1.example.com
 
